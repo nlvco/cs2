@@ -5,5 +5,5 @@
 
 ## Changelog
 
-> 30/08/2024
-> update/release for latest game updated
+> 30/08/2024 
+> - update/release for latest game updated
